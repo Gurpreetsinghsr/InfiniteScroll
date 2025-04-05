@@ -7,7 +7,7 @@ A beautiful, responsive, and highly customizable infinite scroll component for R
 - 🚀 Smooth infinite scrolling
 - 🎨 Responsive grid layout
 - ⚡ Optimized performance
-- 🔄 Loading states
+- 🔄 Lazy Loading
 - ⚠️ Error handling
 - 📱 Mobile-friendly
 - 🎯 TypeScript support
@@ -50,7 +50,8 @@ Make sure your project includes:
 
 - Easy Integration: Minimal configuration needed to plug into your project.
 
-- No Virtualization: Designed for simplicity and ease-of-use; virtualization is skipped for a lightweight implementation.
+- Lazy Loading of images
+
 
 ## How It Works
 - Data Fetching:
@@ -73,3 +74,13 @@ Make sure your project includes:
     Adjust the debounceDelay to tune performance based on the expected scroll speed and API response times.
 
 <img width="817" alt="Screenshot 2025-04-06 at 4 08 08 AM" src="https://github.com/user-attachments/assets/0a8f121b-bddf-4b23-9175-64d311cc25c8" />
+
+## View
+
+
+https://github.com/user-attachments/assets/0d82e42b-8aff-489e-8c07-6cc184ef5636
+
+
+
+
+
